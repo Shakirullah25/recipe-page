@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# recipe-page
-=======
 # recipe_page
 
 A new Flutter project.
