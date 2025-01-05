@@ -1,17 +1,31 @@
-# recipe_page
+# Frontend Mentor - Recipe page solution
 
-A new Flutter project.
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Getting Started
+## Table of contents
 
-This project is a starting point for a Flutter application.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-A few resources to get you started if this is your first Flutter project:
+## Overview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Screenshot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> b54b26d (Initial Commit)
+![](./lib/asset/image/localhost_65418_%28Pixel%207%29.png)
+
+### Links
+
+- Solution URL: [Solution URL](https://github.com/Shakirullah25/recipe-page.git)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
